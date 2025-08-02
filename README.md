@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 For support and questions:
-- **website**: wwww.norpay.org
+- **website**:  [www.norpay.org](https://norpay.org)
 - **Documentation**: [docs.norpay.org](https://norpay.org)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/norpay/issues)
 
